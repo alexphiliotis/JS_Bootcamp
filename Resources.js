@@ -1,0 +1,4 @@
+/*
+caniuse.com
+    Provides a compatibility chart for different browsers.
+*/
